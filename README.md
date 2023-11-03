@@ -4,4 +4,4 @@ Le projet "HumanFaces" est une collaboration entre Thomas Wiscart et Suzy Da Sil
 
 
 ## Quels sont les droits d'auteur sur les visages ?
-Tout les droits d'auteur concernant les visages au sein du projet appartiennent à Suzy Da Silva. La date de première publication est 2023.
+Tout les droits d'auteur concernant les visages au sein du projet appartiennent à [Suzy Da Silva]([http://a.com](https://www.linkedin.com/in/suzy-da-silva-2a821a23b/)) Suzy Da Silva. La date de première publication est 2023.
